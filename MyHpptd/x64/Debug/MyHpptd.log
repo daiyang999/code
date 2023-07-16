@@ -1,0 +1,31 @@
+﻿  httpd.cpp
+C:\Users\Administrator\Desktop\xuexi\MyHpptd\httpd.cpp(24,19): warning C4244: “初始化”: 从“SOCKET”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\xuexi\MyHpptd\httpd.cpp(93,27): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\xuexi\MyHpptd\httpd.cpp(96,27): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\xuexi\MyHpptd\httpd.cpp(99,27): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\xuexi\MyHpptd\httpd.cpp(102,27): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\xuexi\MyHpptd\httpd.cpp(113,27): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\xuexi\MyHpptd\httpd.cpp(92,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\xuexi\MyHpptd\httpd.cpp(95,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\xuexi\MyHpptd\httpd.cpp(98,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\xuexi\MyHpptd\httpd.cpp(101,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\xuexi\MyHpptd\httpd.cpp(105,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\xuexi\MyHpptd\httpd.cpp(119,27): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\xuexi\MyHpptd\httpd.cpp(122,27): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\xuexi\MyHpptd\httpd.cpp(128,26): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\xuexi\MyHpptd\httpd.cpp(131,27): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\xuexi\MyHpptd\httpd.cpp(118,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\xuexi\MyHpptd\httpd.cpp(121,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\xuexi\MyHpptd\httpd.cpp(127,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\xuexi\MyHpptd\httpd.cpp(130,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\xuexi\MyHpptd\httpd.cpp(137,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\xuexi\MyHpptd\httpd.cpp(168,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\xuexi\MyHpptd\httpd.cpp(171,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\xuexi\MyHpptd\httpd.cpp(189,13): warning C4244: “初始化”: 从“SOCKET”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\xuexi\MyHpptd\httpd.cpp(202,6): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+C:\Users\Administrator\Desktop\xuexi\MyHpptd\httpd.cpp(219,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\xuexi\MyHpptd\httpd.cpp(221,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\xuexi\MyHpptd\httpd.cpp(236,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\xuexi\MyHpptd\httpd.cpp(252,18): warning C4244: “初始化”: 从“SOCKET”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\xuexi\MyHpptd\httpd.cpp(259,38): warning C4312: “类型强制转换”: 从“int”转换到更大的“void *”
+  MyHpptd.vcxproj -> C:\Users\Administrator\Desktop\xuexi\MyHpptd\x64\Debug\MyHpptd.exe

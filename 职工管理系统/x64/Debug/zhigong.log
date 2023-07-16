@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(zhigong.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  workerManager.cpp
+  基于多态的职工管理系统.cpp
+  正在生成代码...
+  zhigong.vcxproj -> C:\Users\Administrator\Desktop\xuexi\职工管理系统\x64\Debug\职工管理系统.exe
