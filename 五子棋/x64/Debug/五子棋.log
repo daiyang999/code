@@ -1,0 +1,21 @@
+﻿  Chess.cpp
+C:\Users\Administrator\Desktop\xuexi\code\五子棋\Chess.cpp(61,54): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\xuexi\code\五子棋\Chess.cpp(61,44): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\xuexi\code\五子棋\Chess.cpp(62,56): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\xuexi\code\五子棋\Chess.cpp(62,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\xuexi\code\五子棋\Chess.cpp(76,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\xuexi\code\五子棋\Chess.cpp(77,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\xuexi\code\五子棋\Chess.cpp(78,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\xuexi\code\五子棋\Chess.cpp(79,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\xuexi\code\五子棋\Chess.cpp(80,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\xuexi\code\五子棋\Chess.cpp(86,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\xuexi\code\五子棋\Chess.cpp(95,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\xuexi\code\五子棋\Chess.cpp(97,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\xuexi\code\五子棋\Chess.cpp(107,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\xuexi\code\五子棋\Chess.cpp(108,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\xuexi\code\五子棋\Chess.cpp(117,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\xuexi\code\五子棋\Chess.cpp(118,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\xuexi\code\五子棋\Chess.cpp(119,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\xuexi\code\五子棋\Chess.cpp(136,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\xuexi\code\五子棋\Chess.cpp(137,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  五子棋.vcxproj -> C:\Users\Administrator\Desktop\xuexi\code\五子棋\x64\Debug\五子棋.exe
