@@ -1,0 +1,3 @@
+﻿  calculate.cpp
+C:\Users\Administrator\Desktop\xuexi\jicheng\calculate.cpp(15): warning C4715: “calculator::getresult”: 不是所有的控件路径都返回值
+  jicheng.vcxproj -> C:\Users\Administrator\Desktop\xuexi\jicheng\x64\Debug\jisuanqi.exe
