@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/daiyang/sylarhttp/build",
+  "command": "/usr/bin/g++ -Dsylar_EXPORTS -I/home/daiyang/sylarhttp/.  -rdynamic -O0 -ggdb -g -std=c++11 -Wall -Wno-deprecated -Wno-unused-function -g -fPIC -o CMakeFiles/sylar.dir/sylar/log.cc.o -c /home/daiyang/sylarhttp/sylar/log.cc",
+  "file": "/home/daiyang/sylarhttp/sylar/log.cc"
+},
+{
+  "directory": "/home/daiyang/sylarhttp/build",
+  "command": "/usr/bin/g++ -Dsylar_EXPORTS -I/home/daiyang/sylarhttp/.  -rdynamic -O0 -ggdb -g -std=c++11 -Wall -Wno-deprecated -Wno-unused-function -g -fPIC -o CMakeFiles/sylar.dir/sylar/util.cc.o -c /home/daiyang/sylarhttp/sylar/util.cc",
+  "file": "/home/daiyang/sylarhttp/sylar/util.cc"
+},
+{
+  "directory": "/home/daiyang/sylarhttp/build",
+  "command": "/usr/bin/g++ -Dsylar_EXPORTS -I/home/daiyang/sylarhttp/.  -rdynamic -O0 -ggdb -g -std=c++11 -Wall -Wno-deprecated -Wno-unused-function -g -fPIC -o CMakeFiles/sylar.dir/sylar/config.cc.o -c /home/daiyang/sylarhttp/sylar/config.cc",
+  "file": "/home/daiyang/sylarhttp/sylar/config.cc"
+},
+{
+  "directory": "/home/daiyang/sylarhttp/build",
+  "command": "/usr/bin/g++  -I/home/daiyang/sylarhttp/.  -rdynamic -O0 -ggdb -g -std=c++11 -Wall -Wno-deprecated -Wno-unused-function -g -o CMakeFiles/test.dir/tests/test.cc.o -c /home/daiyang/sylarhttp/tests/test.cc",
+  "file": "/home/daiyang/sylarhttp/tests/test.cc"
+},
+{
+  "directory": "/home/daiyang/sylarhttp/build",
+  "command": "/usr/bin/g++  -I/home/daiyang/sylarhttp/.  -rdynamic -O0 -ggdb -g -std=c++11 -Wall -Wno-deprecated -Wno-unused-function -g -o CMakeFiles/test_config.dir/tests/test_config.cc.o -c /home/daiyang/sylarhttp/tests/test_config.cc",
+  "file": "/home/daiyang/sylarhttp/tests/test_config.cc"
+}
+]

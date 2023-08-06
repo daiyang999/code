@@ -1,0 +1,3 @@
+2023-07-21 10:03:47	INFO	test macro
+2023-07-21 10:03:47	ERROR	test macro error
+2023-07-21 10:03:47	ERROR	test macro fmt error aa

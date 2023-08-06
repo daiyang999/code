@@ -1,0 +1,7 @@
+/home/daiyang/sylarhttp/build/CMakeFiles/sylar.dir
+/home/daiyang/sylarhttp/build/CMakeFiles/test.dir
+/home/daiyang/sylarhttp/build/CMakeFiles/test_config.dir
+/home/daiyang/sylarhttp/build/CMakeFiles/package.dir
+/home/daiyang/sylarhttp/build/CMakeFiles/package_source.dir
+/home/daiyang/sylarhttp/build/CMakeFiles/edit_cache.dir
+/home/daiyang/sylarhttp/build/CMakeFiles/rebuild_cache.dir

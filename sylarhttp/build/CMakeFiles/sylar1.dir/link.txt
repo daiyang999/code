@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsylar1.a CMakeFiles/sylar1.dir/sylar1.cpp.o
+/usr/bin/ranlib libsylar1.a

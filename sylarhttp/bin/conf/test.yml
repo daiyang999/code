@@ -1,0 +1,61 @@
+logs:
+    - name: root
+      level: info
+      
+      appender:
+          - type: FileLogAppender
+            file: /home/daiyang/sylarhttp/log.txt
+          - type: StdoutLogAppender
+    - name: system
+      level: debug
+      
+      appender:
+          - type: FileLogAppender
+            file: /home/daiyang/sylarhttp/log.txt
+          - type: StdoutLogAppender
+system:
+    port: 9900
+    value: 15
+    int_vec:
+        - 10
+        - 30
+    int_list: [20,40,50]
+    int_set: [30,20,60,20]
+    int_uset: [30,20,60,20]
+    str_int_map:
+        k: 30
+        k2: 20
+        k3: 10
+    str_int_umap:
+        k: 130
+        k2: 120
+        k3: 110
+class:
+    person:
+        name: sylar
+        age: 31
+        sex: true
+    map:
+        sylar01:
+            name: sylar01
+            age: 18
+            sex: false
+        sylar02:
+            name: sylar02
+            age: 40
+            sex: true
+    vec_map:
+        k1:
+            - name: m1
+              age: 33
+              sex: true
+            - name: m2
+              age: 44
+              sex: false
+        k2:
+            - name: m21
+              age: 333
+              sex: true
+            - name: m22
+              age: 444
+              sex: false
